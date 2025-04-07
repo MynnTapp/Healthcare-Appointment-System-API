@@ -1,0 +1,6 @@
+@Health_Care_appointment_system_API_HostAddress = http://localhost:5209
+
+GET {{Health_Care_appointment_system_API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
