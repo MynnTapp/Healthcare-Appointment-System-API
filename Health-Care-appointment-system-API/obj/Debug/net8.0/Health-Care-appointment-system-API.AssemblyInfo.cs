@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Health-Care-appointment-system-API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+95d1f2609749f1e6df4627b376161562d8a4775f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+470af276cb8d6be0efca29236951f6b9f9304140")]
 [assembly: System.Reflection.AssemblyProductAttribute("Health-Care-appointment-system-API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Health-Care-appointment-system-API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
